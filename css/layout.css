@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.mt5 {
+    margin-top: 5px;
+}
+.mt18 {
+    margin-top: 18px;
+}
+.text-larger {
+    font-size: 5.5rem;
+}
+.text-big {
+    font-size: 2rem;
+}
+.text-bigger {
+    font-size: 3.5rem;
+}
+.text-normal {
+    font-weight: 200;
+}
+.text-thin {
+    font-weight: 100;
+}
+.line-5 {
+    border:none;
+    border-top:5px solid #7d97ad;
+    height:0;
+}
+.header {
+    margin-top: 15px;
+}
+.text-color3 {
+    color: #7d97ad;
+}
+.profileList div {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.profileList p {
+    overflow-wrap:break-word
+}
